@@ -202,6 +202,8 @@ body {
 .container {
   width: 1200px;
   margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
   /*outline: 1px solid #000;*/
 }
 /*флекс контейнер*/
@@ -276,14 +278,10 @@ body {
 .section {
   padding-top: 94px;
   padding-bottom: 94px;
-  padding-left: 15px;
-  padding-right: 15px;
 }
 
 .section-advantages {
   padding-top: 94px;
-  padding-left: 15px;
-  padding-right: 15px;
 }
 .flex-item {
   width: 270px;
@@ -461,11 +459,6 @@ body {
   justify-content: center;
   margin-bottom: 50px;
 }
-/*
-.section-portfolio {
-  padding-top: 94px;
-  padding-bottom: 94px;
-}*/
 
 .list-works {
   display: flex;
