@@ -390,19 +390,21 @@ body {
 }
 
 /*footer*/
-.container-footer {
-  padding-top: 60px;
-  padding-bottom: 60px;
-}
 
 .footer {
   background-color: var(--hero-footer-color);
   padding-left: 15px;
   padding-right: 15px;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .address {
   margin-top: 20px;
+}
+
+.map {
+  margin-bottom: 9px;
 }
 
 .address-map {
